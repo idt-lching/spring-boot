@@ -1,0 +1,14 @@
+# IntelliJ Project Folders and Files
+.idea/
+*.iml
+
+# Eclipse Project Folders and Files
+.settings/
+.externalToolBuilders/
+.project
+.classpath
+.metadata
+
+# Project Folders and Files
+target/
+
